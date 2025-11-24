@@ -1,0 +1,27 @@
+# Environnement virtuel Python
+venv/
+env/
+ENV/
+.venv
+
+# Fichiers Python compilés
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Modèles ML sauvegardés (optionnel si vous voulez les re-entraîner)
+*.pkl
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
