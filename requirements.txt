@@ -1,15 +1,15 @@
 # Framework web
-fastapi==0.104.1
-uvicorn[standard]==0.24.0
-pydantic==2.5.0
+fastapi==0.115.5
+uvicorn[standard]==0.32.1
+pydantic==2.10.3
 
 # Machine Learning
-scikit-learn==1.3.2
-pandas==2.1.3
-numpy==1.26.2
+scikit-learn==1.7.2
+pandas==2.2.3
+numpy==2.3.5
 
 # Téléchargement de données
-requests==2.31.0
+requests==2.32.3
 
 # Gestion de fichiers
-python-multipart==0.0.6
+python-multipart==0.0.9
